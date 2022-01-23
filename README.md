@@ -1,5 +1,5 @@
-### Hi there 👋
-## 😄 Hello World!, I'm Sangwon Hyun ![Profile views](https://gpvc.arturio.dev/hyunsangwon)
+## Hello World :) 👋
+### 기억보단 기록을 📖 ![Profile views](https://gpvc.arturio.dev/hyunsangwon)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunsangwon&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
