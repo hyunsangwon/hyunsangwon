@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## 😄 Hello World!, I'm Sangwon Hyun ![Profile views](https://gpvc.arturio.dev/hyunsangwon)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunsangwon&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunsangwon&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
