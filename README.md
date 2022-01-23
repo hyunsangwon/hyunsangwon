@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## 😄 Hello World!, I'm Sangwon Hyun ![Profile views](https://gpvc.arturio.dev/hyunsangwon)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunsangwon&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -14,4 +15,3 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </p>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunsangwon&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
