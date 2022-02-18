@@ -1,6 +1,6 @@
 ## Hello World :) 👋 ![Profile views](https://gpvc.arturio.dev/hyunsangwon)
 ### 기억보단 기록을 📖
-### MBTI https://ddok9.com/ko/mbti/HX2ryU305?gmno=1138041
+### MBTI http://ddok9.com/ko/mbti/HX2ryU305
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
