@@ -1,6 +1,5 @@
 ## Hello World :) 👋 ![Profile views](https://gpvc.arturio.dev/hyunsangwon)
 ### 기억보단 기록을 📖  
-### 작은거에 습관을 :star:
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
