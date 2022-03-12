@@ -1,4 +1,5 @@
 ## Hello World :) 👋 ![Profile views](https://gpvc.arturio.dev/hyunsangwon)
+## 현재는 코딩교사로 일하고 있는 현상원 입니다. Oss! :rocket:
 ### 기억보단 기록을 📖  
 
 <h3 align="center">📚 Tech Stack 📚</h3>
