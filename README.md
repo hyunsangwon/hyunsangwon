@@ -1,5 +1,5 @@
 ## Hello World :) My name is Sangwon Hyun👋 ![Profile views](https://gpvc.arturio.dev/hyunsangwon)
-## #코딩강사 #AWS강사 #DevOps #주짓수 :rocket:
+## #코딩강사 #AWS강사 #DevOps #IoT_developer #CleanCode #주짓수 :rocket:
 ### 기억보단 기록을 📖  
 
 <h3 align="center">📚 Tech Stack 📚</h3>
