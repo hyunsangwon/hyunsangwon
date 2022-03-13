@@ -10,5 +10,5 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsangwon&layout=compact&theme=vue&count_private=true" />
-  [![opgc](https://api.opgc.me/githubs/users/hyunsangwon/tag/?theme=dracula)](https://opgc.me/#/users/hyunsangwon)
+  <img src="https://api.opgc.me/githubs/users/hyunsangwon/tag/?theme=dracula" />
 </div>
