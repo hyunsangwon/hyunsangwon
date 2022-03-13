@@ -2,6 +2,8 @@
 ## #코딩강사 #AWS강사 #DevOps #IoT_developer #CleanCode #주짓수 :rocket:
 ### 기억보단 기록을 📖  
 
+[![opgc](https://api.opgc.me/githubs/users/hyunsangwon/tag/?theme=dracula)](https://opgc.me/#/users/hyunsangwon)
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -16,6 +18,3 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </p>
-
-
-[![opgc](https://api.opgc.me/githubs/users/hyunsangwon/tag/?theme=dracula)](https://opgc.me/#/users/hyunsangwon)
