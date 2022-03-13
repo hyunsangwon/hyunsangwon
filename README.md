@@ -6,10 +6,9 @@
 [![Email](https://img.shields.io/badge/Email-hyunsangwon93@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:hyunsangwon93@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@hyun_sw_93-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/hyun_sw_93)
 
-### Most Used in GitHub
+---
+
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsangwon&layout=compact&theme=vue&count_private=true" />
+  [![opgc](https://api.opgc.me/githubs/users/hyunsangwon/tag/?theme=dracula)](https://opgc.me/#/users/hyunsangwon)
 </div>
-
-### My rank in GitHub
-[![opgc](https://api.opgc.me/githubs/users/hyunsangwon/tag/?theme=dracula)](https://opgc.me/#/users/hyunsangwon)
