@@ -9,6 +9,6 @@
 ---
 
 <div style="display: flex;">
-  <img src="https://api.opgc.me/githubs/users/hyunsangwon/tag/?theme=dracula" />
+<!--   <img src="https://api.opgc.me/githubs/users/hyunsangwon/tag/?theme=dracula" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsangwon&layout=compact&theme=material-palenight&langs_count=8)" />
 </div>
